@@ -6,12 +6,12 @@
 
 3.Satellite and Any Space Mission Subsystem <br >
 4.Objectives <br >
-5.  *
+5   * <br >
 6.  *
 7.Concept and Operation of Any chosen space Mission <br >
 8.Architecture and Simulation <br >
 9.NASA and Her Role in Space <br >
-    * Technical Suport and Advice <br >
+* Technical Suport and Advice <br >
     * Environmentaal  Testing <br >
     * Deployment through ISS <br >
 8.Possible Space Missions <br >
