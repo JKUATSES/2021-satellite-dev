@@ -6,20 +6,20 @@
 
 3.Satellite and Any Space Mission Subsystem <br >
 4.Objectives <br >
-5   * <br >
-6.  *
+   *<br >
+   *<br >
 7.Concept and Operation of Any chosen space Mission <br >
 8.Architecture and Simulation <br >
 9.NASA and Her Role in Space <br >
 * Technical Suport and Advice <br >
-    * Environmentaal  Testing <br >
-    * Deployment through ISS <br >
+* Environmentaal  Testing <br >
+* Deployment through ISS <br >
 8.Possible Space Missions <br >
-    * Communication <br >
-    * Earth Observations <br >
-    * Technological Demo <br >
-    * Scientific <br >
-    * Navigation <br >
+* Communication <br >
+* Earth Observations <br >
+* Technological Demo <br >
+* Scientific <br >
+* Navigation <br >
 9.Space Business <br >
 10.Space Ethics <br >
 11.
