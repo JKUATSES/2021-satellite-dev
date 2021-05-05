@@ -4,8 +4,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/JKUATSES/2021-satellite-dev?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/JKUATSES/2021-satellite-dev?color=orange-green)
 
-
-
+1.
+2.
 3.Satellite and Any Space Mission Subsystem <br >
 4.Objectives <br >
    *<br >
