@@ -14,12 +14,15 @@
 * Technical Suport and Advice <br >
 * Environmentaal  Testing <br >
 * Deployment through ISS <br >
+
 8.Possible Space Missions <br >
+
 * Communication <br >
 * Earth Observations <br >
 * Technological Demo <br >
 * Scientific <br >
 * Navigation <br >
-9.Space Business <br >
-10.Space Ethics <br >
-11.
+
+10.Space Business <br >
+11.Space Ethics <br >
+12.
