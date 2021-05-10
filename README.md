@@ -1,12 +1,12 @@
 ## A Basic Understanding of Developement in Small Satellites, An Overview-2021
 
-![APM](https://img.shields.io/apm/l/vim-mode)
+![PyPI - License](https://img.shields.io/pypi/l/django?color=orange-green)
 ![GitHub forks](https://img.shields.io/github/forks/JKUATSES/2021-satellite-dev?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/JKUATSES/2021-satellite-dev?color=orange-green)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JKUATSES/2021-satellite-dev/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/JKUATSES/2021-satellite-dev.svg?color=purple&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JKUATSES/2021-satellite-dev.svg?style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JKUATSES/2021-satellite-dev)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JKUATSES/2021-satellite-dev?color=light-green&style=plastic)
 
 1. Intro and Definition of terms
 2. Satellite Communcation History
@@ -49,7 +49,7 @@ cd 2021-satellite-dev
 
 ## References
 
-01. https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+01. [Tutorial Point, Satellite Communication](https://www.youtube.com/watch?v=fntTjuJSH9s)
 02. https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/esp32-pinout-chip-ESP-WROOM-32.png?resize=1024%2C523&quality=100&strip=all&ssl=1
 03. https://robu.in/wp-content/uploads/2019/03/Schematic-WeMos-LOLIN32-V1.0.0-based-on-ESP32-Rev1-Wifi-Bluetooth-Board-ROBU.IN_.pdf
 
