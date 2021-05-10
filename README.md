@@ -6,8 +6,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JKUATSES/2021-satellite-dev/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/JKUATSES/2021-satellite-dev.svg?color=purple&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JKUATSES/2021-satellite-dev.svg?style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JKUATSES/2021-satellite-dev?color=light-green&style=plastic)
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/JKUATSES/2021-satellite-dev?color=yellow">
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/JKUATSES/2021-satellite-dev/main?color=orange-green)
 
 1. Intro and Definition of terms
@@ -52,8 +50,7 @@ cd 2021-satellite-dev
 ## References
 
 01. [Tutorial Point, Satellite Communication](https://www.youtube.com/watch?v=fntTjuJSH9s)
-02. https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/esp32-pinout-chip-ESP-WROOM-32.png?resize=1024%2C523&quality=100&strip=all&ssl=1
-03. https://robu.in/wp-content/uploads/2019/03/Schematic-WeMos-LOLIN32-V1.0.0-based-on-ESP32-Rev1-Wifi-Bluetooth-Board-ROBU.IN_.pdf
+02. 
 
 ## Contributing
 
