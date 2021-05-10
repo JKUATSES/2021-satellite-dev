@@ -7,6 +7,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/JKUATSES/2021-satellite-dev.svg?color=purple&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JKUATSES/2021-satellite-dev.svg?style=flat)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JKUATSES/2021-satellite-dev?color=light-green&style=plastic)
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/JKUATSES/2021-satellite-dev?color=yellow">
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/JKUATSES/2021-satellite-dev/main?color=orange-green)
 
 1. Intro and Definition of terms
