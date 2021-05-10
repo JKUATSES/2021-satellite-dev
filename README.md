@@ -3,14 +3,20 @@
 ![APM](https://img.shields.io/apm/l/vim-mode)
 ![GitHub forks](https://img.shields.io/github/forks/JKUATSES/2021-satellite-dev?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/JKUATSES/2021-satellite-dev?color=orange-green)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JKUATSES/2021-satellite-dev/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/JKUATSES/2021-satellite-dev.svg?color=purple&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/JKUATSES/2021-satellite-dev.svg?style=flat)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JKUATSES/2021-satellite-dev.svg?style=flat)
 
-3.Satellite and Any Space Mission Subsystem <br >
-4.Objectives <br >
+1. Intro and Definition of terms
+2. Satellite Communcation History
+3. Satellite and Any Space Mission Subsystem <br >
+4. Objectives <br >
    * <br >
    * <br >
-7.Concept and Operation of Any chosen space Mission <br >
-8.Architecture and Simulation <br >
-9.NASA and Her Role in Space <br >
+7. Concept and Operation of Any chosen space Mission <br >
+8. Architecture and Simulation <br >
+9. NASA and Her Role in Space <br >
 * Technical Suport and Advice <br >
 * Environmentaal  Testing <br >
 * Deployment through ISS <br >
@@ -27,85 +33,21 @@
 11.Space Ethics <br >
 12.
 
-# sesBoardv1
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JKUATSES/sesBoardv1/issues)
-![GitHub repo size](https://img.shields.io/github/repo-size/JKUATSES/sesBoardv1.svg?color=purple&style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/JKUATSES/sesBoardv1.svg?style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JKUATSES/sesBoardv1.svg?style=flat)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/JKUATSES/sesBoardv1/blob/master/LICENSE)
-
-Welcome to the JKUAT SES Board repository for management and storage of SESBOARD v1. Additional information about the team and current projects can be found [JKUAT SES website](https://ses.jkuat.ac.ke).
-
 If you are a new member of the team and have never used [git version control](http://git-scm.com/) before, we highly recommend that you familiarize yourself with it by reading [this guide](https://github.com/RoboJackets/robocup-firmware/blob/master/doc/Git.md).
-
-## How it will look
-
-### Top
-
-![Top](Design/SESBOARD_Top.png)
-
-### Bottom
-
-![Bottom](Design/SESBOARD_Bottom.png)
 
 ## Prerequisites
 
-* A computer configured with [git](https://desktop.github.com/)
-* An installation of [EasyEDA](https://docs.easyeda.com/en/FAQ/Download/#Desktop-Client) and its [Local router](https://docs.easyeda.com/en/FAQ/Download/#Local-Auto-Router-Server)
-
-## Setup EasyEda
-
-01. Downloading the files
-
-Once your computer is set up with git, the following lines can be used on any operating system within a terminal configured with git. Users who are using a GUI interface for git should simply add the respective repositories through the interface.
+* Interests in Learning, Making and Exploring more about Satellites and Satellite Communications
 
 ``` sh
-# Download the initial files
-git clone https://github.com/JKUATSES/sesBoardv1
-
-# Go into our new directory
-cd sesBoardv1
+# Download the Powepoint and Presentation files here
+git clone https://github.com/JKUATSES/2021-satellite-dev
+# change your working directory into the newly downloaded files
+cd 2021-satellite-dev
 
 ```
 
-02. Open the [Schematic file](Design/SESBOARD.json) and [PCB file](Design/PCB_SESBOARD.json) in EasyEda
-
-![Opening the 2 files](misc/open1.png)
-
-![Opened EasyEda](misc/opened.png)
-
-## Board Design
-
-### 1. Micro-USB connector
-
-![Micro-USB connector](misc/microusbconnector.png)
-
-#### Pin configuration
-
-01. Vcc (+5V) +5V DC voltage
-
-02. D- Data -
-
-03. D+ Data +
-
-04. ID Mode detect
-
-05. Gnd Ground
-
 #### Specifications
-
-01. Micro USB – Type B/SMT
-
-02. Gender: Female
-
-03. Number of Pins: 5
-
-04. Mating cycle: More than 5000 times
-
-05. Current rating: 1A
-
-06. Voltage Rating: 30V (max)
 
 #### Use
 
